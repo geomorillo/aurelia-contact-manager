@@ -7853,6 +7853,10 @@ npm@^5.6.0:
     gauge "~2.7.3"
     set-blocking "~2.0.0"
 
+nprogress@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/nprogress/-/nprogress-0.2.0.tgz#cb8f34c53213d895723fcbab907e9422adbcafb1"
+
 nps-utils@^1.5.0:
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/nps-utils/-/nps-utils-1.5.0.tgz#d20b5848dd20622d4d51c955c8b1790348b57686"
