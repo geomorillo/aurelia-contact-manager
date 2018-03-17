@@ -1,8 +1,11 @@
 # Aurelia Contact Manager Tutorial
 
-This repo contains an implementation of the [Aurelia Framework Contact Manager Tutorial] (http://aurelia.io/docs/tutorials/creating-a-contact-manager) this repo differs from the tutorial in that it uses Bootstrap v4 and the tutorial is still using Bootstrap v3.
+This repo contains an implementation of the [Aurelia Framework Contact Manager Tutorial](http://aurelia.io/docs/tutorials/creating-a-contact-manager) this repo differs from the tutorial in that it uses Bootstrap v4 and the tutorial is still using Bootstrap v3.
 
 ## App Shell Differences
+
+### Bootstrap v3
+
 ```html
 <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="navbar-header">
@@ -13,6 +16,7 @@ This repo contains an implementation of the [Aurelia Framework Contact Manager T
   </div>
 </nav>
 ```
+### Bootstrap v4
 
 ```html
 <nav class="navbar navbar-light bg-light fixed-top" role="navigation">
